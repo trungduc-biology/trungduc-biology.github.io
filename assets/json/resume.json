@@ -1,12 +1,12 @@
 {
-  "basics": {
+  "General information": {
     "name": "Trung Duc Nguyen",
     "label": "Researcher",
-    "image": "",
+    "image": "prof_pic.jpg",
     "email": "tdnguyen@connect.ust.hk",
-    "phone": "(862) 53345859",
-    "url": "https://trungduc-vn.github.io/",
-    "summary": "A Vietnam-born theoretical scientist",
+    "phone": "(862) 5334 5859",
+    "website": "https://trungduc-vn.github.io/",
+    "summary": "A Vietnam-born scientist working in RNA biology",
     "location": {
       "countryCode": "HK",
       "region": "New Territories"
@@ -148,7 +148,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Vietnamese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -179,6 +179,11 @@
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
+      "name": "Professor John Doe",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+    },
+        {
       "name": "Professor John Doe",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
