@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://trungduc-biology.github.io/sitemap.xml
+Sitemap: https://trungduc.github.io/sitemap.xml
